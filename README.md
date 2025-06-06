@@ -1,4 +1,3 @@
-Here’s a well-structured and visually appealing `README.md` for your **Face Recognition Attendance System** project. This is written in Markdown and includes emojis, badges, and sections that improve UI/UX readability for GitHub or any code-hosting platform.
 
 ---
 
