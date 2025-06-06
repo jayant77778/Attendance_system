@@ -124,7 +124,7 @@ If you see:
 
 **Jayant Bhati**
 🔗 [GitHub](https://github.com/jayant77778)
-📧 [jayant@example.com](mailto:jayant@gmail.com) 
+📧 [jai77bhati@gmail.com](mailto:jayant@gmail.com) 
 
 ---
 
